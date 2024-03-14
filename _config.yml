@@ -1,5 +1,5 @@
 title: Technical Blog
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
+description: Bite-Sized Code Modules for your project - Next.js, Tailwind, Supabase 
 show_downloads: true
 
 baseurl: "/technical-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
