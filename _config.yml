@@ -1,5 +1,5 @@
 title: Technical Blog
-description: Bite-Sized Code Modules for your project - Next.js, Tailwind, Supabase 
+description: A blog of Bite-Sized Code Modules for your project - Next.js, Tailwind, Supabase 
 show_downloads: true
 
 baseurl: "/technical-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -17,7 +17,7 @@ theme: # leave it empty
 
 # social
 author: koempelkode
-image: /thumbnail-jumbo.png
+image: /macbook-pro.png
 twitter:
   username: koempelkode
 

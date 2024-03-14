@@ -3,7 +3,7 @@ layout: post
 title: "Post content styles"
 tagline: "This post demonstrates post content styles"
 categories: junk
-image: /thumbnail-mobile.png
+image: /macbook-pro.png
 author: "Bart Simpson"
 meta: "Springfield"
 ---
