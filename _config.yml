@@ -30,6 +30,7 @@ unpublished         : false
 # Plugins
 whitelist           : []
 plugins             : []
+theme: jekyll-theme-cayman
 
 # Conversion
 markdown            : kramdown
