@@ -7,6 +7,10 @@ ref: now
 order: 2
 ---
 
-This is a [now page](https://nownownow.com/about), and it was inspired by [the /now movement](https://sivers.org/nowff). If you have your own site, [you should make one](https://nownownow.com/about), too.
+Since November 2023, I've been hard at work developing a professional political blog website! 🗳️ Leveraging Next.js, Tailwind CSS, and Supabase, I'm showcasing my expertise in HTML, CSS, JavaScript, and TypeScript.
+
+📰 Stay tuned for thought-provoking content on pressing political issues, insightful analyses, and engaging discussions. Whether you're a seasoned pundit or a curious citizen, there's something for everyone on this platform.
+
+💻 Informed Discourse #PoliticalBlog #WebDevelopment #NextJS
 
 [Go to the Home Page]({{ '/' | absolute_url }})
