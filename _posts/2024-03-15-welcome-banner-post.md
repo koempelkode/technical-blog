@@ -12,7 +12,7 @@ image: /macbook-pro.png
 meta: "Welcome Banner"
 ---
 
-#### Create a simple yet effective Welcome Banner component using Next.js and Tailwind CSS.
+Create a simple yet effective Welcome Banner component using Next.js and Tailwind CSS.
 
 ## Introduction
 
