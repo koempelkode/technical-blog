@@ -12,6 +12,8 @@ image: /macbook-pro.png
 meta: "Welcome Banner"
 ---
 
+Create a simple yet effective Welcome Banner component using Next.js and Tailwind CSS.
+
 ## Introduction
 
 I recently worked on a project where I needed to create a welcoming banner for a webpage.
