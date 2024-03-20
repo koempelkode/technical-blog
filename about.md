@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Author
+title: Gabe Koempel
 tagline: Driven Self-Taught Web Developer with a unique blend of skills in Technology, Music, and Visual Arts
 permalink: /about.html
 ref: about
