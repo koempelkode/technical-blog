@@ -6,7 +6,7 @@ date: 2024-03-25
 author: koempelkode
 tags: [Next.js, Tailwind CSS, React, Web Development]
 
-tagline: "How to design a responsive Contact Form with Next.js and Tailwind CSS"
+tagline: "Crafting a Simple and Stylish Subscribe Form with Next.js and Tailwind CSS"
 categories: 
 image: /macbook-pro.png
 meta: "Subscribe Form"
